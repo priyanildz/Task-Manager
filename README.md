@@ -4,7 +4,7 @@ A simple and responsive Task Manager web application built using HTML, CSS, and 
 
 ## Live Demo
 
-:contentReference[oaicite:0]{index=0}
+https://priyanildz.github.io/Task-Manager/
 
 ## Features
 
