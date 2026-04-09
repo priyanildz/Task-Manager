@@ -1,6 +1,6 @@
 # Task Manager
 
-A simple and responsive Task Manager web application built using HTML, CSS, and JavaScript. This project helps users efficiently manage daily tasks with an intuitive interface and persistent local storage.
+A simple and responsive Task Manager web application built using HTML, CSS, and JavaScript. This project allows users to efficiently manage daily tasks with features like task creation, editing, deletion, completion tracking, and persistent storage.
 
 ## Live Demo
 
@@ -12,6 +12,8 @@ https://priyanildz.github.io/Task-Manager/
 - Edit existing tasks
 - Delete tasks with confirmation
 - Mark tasks as completed
+- Automatic sorting (completed tasks move to bottom)
+- Drag and drop to reorder tasks (desktop support)
 - Persistent data using browser localStorage
 - Responsive design for mobile and desktop
 
@@ -28,6 +30,8 @@ https://priyanildz.github.io/Task-Manager/
 Task-Manager/
 │
 ├── index.html
+├── style.css
+├── script.js
 └── README.md
 
 ```
@@ -39,6 +43,7 @@ Task-Manager/
   - Text content
   - Completion status
 - The UI dynamically updates whenever tasks are added, edited, or removed
+- Drag and drop allows users to prioritize tasks visually
 
 ## Getting Started
 
